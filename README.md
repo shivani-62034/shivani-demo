@@ -1,4 +1,4 @@
 # shivani-demo
 This is my first git repo
 <br>
-Author- Shivani roy
+Author- shivani (my first demo)
